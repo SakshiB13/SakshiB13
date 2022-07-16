@@ -1,3 +1,9 @@
+<h1 align="center">Hey!! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="35px" width="25px"> Sakshi Bole here.</h1>
+<p align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=SakshiB13.SakshiB13"> </p>
+
+
+
+
 - 🔭 I’m currently working on MERN Stack.
 - ✨ I’m currently learning Full Stack Development.
 - ⚡ I love to connect with people
@@ -8,7 +14,7 @@
 
 # TECH STACK
   ###  Languages (I have been excelling in)
-  
+  <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt=" Cpp logo" title= " C++" height="25" />
   &nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python logo" title="Python" height="25" />
@@ -26,6 +32,7 @@
   <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
   &nbsp;
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL" height="25" />
+  </p>
 
 ### :trophy: My Github Stats
   
