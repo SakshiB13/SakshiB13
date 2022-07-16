@@ -9,7 +9,7 @@
 - ⚡ I love to connect with people
 ### Support or Contact 
 <a href="https://www.linkedin.com/in/sakshi-bole-6371b41a0/" target="_blank"><img src="https://raw.githubusercontent.com/SakshiB13/SakshiB13/master/icons/linkedin.png" alt="LinkedIn" width="30"></a>
-<a href="https://www.instagram.com/sakshi_bole_013/" target="_blank"><img src="https://raw.githubusercontent.com/SakshiB13/SakshiB13/master/icons/instagram.png" alt="Instagram" width="30"></a>
+<a href="https://www.instagram.com/sakshi_bole_13/" target="_blank"><img src="https://raw.githubusercontent.com/SakshiB13/SakshiB13/master/icons/instagram.png" alt="Instagram" width="30"></a>
 <a href="https://github.com/SakshiB13" target="_blank"><img src="https://raw.githubusercontent.com/SakshiB13/SakshiB13/master/icons/githb.png" alt="GitHub" width="30"></a>
 
 # TECH STACK
